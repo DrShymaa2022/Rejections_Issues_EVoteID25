@@ -9,3 +9,7 @@ Let me acknowledge that I have doubts that there was some kind of hacking/penetr
 
 
 while sending to Track-3 now, I keep generating AI review reports from grok (X formerly Twitter), Gemini (Google), Capilot (Microdoft); then prepare a revised version accordingly 
+
+Ps.
+
+All generated reports recommended acceptance with minor revisions, which I keep doing
