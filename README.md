@@ -1,3 +1,7 @@
+To add on this, the paper was rejected again from Track-3 (as submission 46) although enermous improvements were added that do not exist in any SoK of the Estonian i-voting IVXV; especially when you compare with other accepted papers
+
+Also the last paragraph of my future work since 2024 was the idea behind another paper who did not cite me since my paper is not accepted through peer-review yet
+
 this is a temporary folder to hold the unreasonable  reviewers reports as html files
 
 (6 is the Estonian i-voting paper, 13 is the court verifiability e-voting paper)
